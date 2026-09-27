@@ -1,0 +1,13 @@
+{
+  "name": "vibesense-ai-server",
+  "version": "1.0.0",
+  "description": "VibeSense AI WebRTC signaling server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.4"
+  }
+}
